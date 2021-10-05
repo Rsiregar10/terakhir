@@ -18,7 +18,7 @@ import (
 )
 
 func main() {
-	Run()
+	Run() //nilainya100dongmas
 }
 
 func Router() http.Handler {
